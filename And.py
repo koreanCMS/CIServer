@@ -1516,3 +1516,4 @@ if __name__ == '__main__':
 	suite = unittest.TestLoader().loadTestsFromTestCase(And)
 	unittest.TextTestRunner(verbosity=2).run(suite)
 # 2020 0303 C6
+# 2020 0303 C7
