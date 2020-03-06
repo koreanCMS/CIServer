@@ -21,3 +21,4 @@ WKEJ
 # Test 0305
 # Test 0305 T1
 # Test 0306
+# Test 0306 R1
